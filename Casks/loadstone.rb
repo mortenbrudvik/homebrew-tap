@@ -1,6 +1,6 @@
 cask "loadstone" do
-  version "0.2.0"
-  sha256 "5261bb868424247bfffb862c2d9fb2177d8f1f86aaa4294627bd89852f213bad"
+  version "0.3.0"
+  sha256 "ab26c1f61c47c72b2668db8e52a093f98e2e167fe63b1b8882d45a20900073ae"
 
   url "https://github.com/mortenbrudvik/loadstone/releases/download/v#{version}/Loadstone-#{version}.zip"
   name "Loadstone"
